@@ -1,10 +1,10 @@
 # **하루 결산 기록 사이트, 23:59✍️**
-<img src="readme/메인.png" width="1000" height="500"/>
+<img src="https://user-images.githubusercontent.com/81467705/212634133-df7fb46e-2ae4-449c-8ea5-0a05c7d20b91.png" width="1000" height="500"/>
 
 ## 1. 서비스 소개
 
 ### 🛠️ 기술 스택
-<img src="readme/기술스택.png" width="1000" height="500"/>
+<img src="https://user-images.githubusercontent.com/81467705/212634213-f152d4b6-1b6e-40b7-9814-531da52e5ee4.png" width="1000" height="500"/>
 
 ### 👀 웹서비스 개요
 
@@ -20,7 +20,7 @@
 ### ✨ 페이지별 기능 소개
 <details>
   <summary><h4>회원가입,로그인 페이지</h4></summary>
-<img src="readme/회원가입_로그인.gif" width="1000" height="550"/><br/>
+<img src="https://user-images.githubusercontent.com/81467705/212634304-dbb24545-05e5-4091-b8f4-02bdf794238e.gif" width="1000" height="550"/><br/>
   <b>1. 회원가입</b><br/>
   •  이메일 형식 여부 즉시 확인<br/>
   •  비밀번호 확인<br/>
@@ -32,7 +32,7 @@
 </details>
 <details>
   <summary><h4>홈 페이지</h4></summary>
-  <img src="readme/홈페이지.gif" width="1000" height="550"/><br/>
+  <img src="https://user-images.githubusercontent.com/81467705/212634383-892a48fe-99ab-459a-ada6-905401b16e16.gif" width="1000" height="550"/><br/>
   <b>1. 기본 옵션 설정 모달</b><br/>
   • 최초 로그인 시 모달창을 띄워 기본 옵션 저장<br/><br/>    
   <b>2. 달력에서 다이어리 요약본 확인</b><br/>
@@ -44,7 +44,7 @@
 </details>
 <details>
   <summary><h4>작성 페이지</h4></summary>
-  <img src="readme/작성페이지.gif" width="1000" height="550"/><br/>
+  <img src="https://user-images.githubusercontent.com/81467705/212634426-9e60035a-19ad-45e2-808c-b0fad1dcebf1.gif" width="1000" height="550"/><br/>
   <b>1. 작성 / 조회</b><br/> 
 • 기본 설정 옵션에 따라 페이지가 다르게 조회<br/>
 • 리모콘 기능으로 해당 위치로 화면 이동 가능<br/>
@@ -60,8 +60,8 @@
 </details>
 <details>
   <summary><h4>마이페이지</h4></summary>
-    <img src="readme/마이페이지1.gif" width="1000" height="550"/><br/>
-    <img src="readme/마이페이지2.gif" width="1000" height="550"/><br/>
+    <img src="https://user-images.githubusercontent.com/81467705/212634482-40801739-0e94-46ed-a41c-59efdaeb1470.gif" width="1000" height="550"/><br/>
+    <img src="https://user-images.githubusercontent.com/81467705/212634489-3a8dd86d-60f8-41f4-a7e4-83423d176fb6.gif" width="1000" height="550"/><br/>
   <b>1. 회원 정보 수정/탈퇴</b><br/> 
   • 닉네임 수정<br/> 
   - 현재 비밀번호 확인 및 새 비밀번호 저장<br/> 
@@ -93,7 +93,7 @@
 ## 3. 서비스 구성도
 
 ### 🗺️서비스 구조도
-<img src="readme/서비스_구조도.png" width="1000" height="550"/>
+<img src="https://user-images.githubusercontent.com/81467705/212634553-923e025e-d38d-4c10-b158-f16a57c55cee.png" width="1000" height="550"/>
 
 ### 🎨와이어프레임
 
